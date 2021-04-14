@@ -40,7 +40,7 @@ CREATE TABLE `clientes` (
 
 LOCK TABLES `clientes` WRITE;
 /*!40000 ALTER TABLE `clientes` DISABLE KEYS */;
-INSERT INTO `clientes` VALUES (1,'37351494','Irma Yolanda','Sian Sinay','Pastores',52527362,'1981-10-11'),(2,'345678','Lesly Yolanda','Quevedo Sian','Pastores',54645017,'2002-09-11'),(7,'4487456','ROYER','QUEVEDO','PARRAMOS',34567889,'1981-01-11');
+INSERT INTO `clientes` VALUES (1,'37351494','Yohana Melgar','Tic Yoc','Pastores',55889922,'1991-10-10'),(2,'345678','Marleny Aura','Choy Tuc','Pastores',88556622,'2012-10-11'),(7,'88552255','Frida','Tuc','Dueñas',55669911,'1988-11-11');
 /*!40000 ALTER TABLE `clientes` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -107,4 +107,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2021-04-13 22:27:24
+-- Dump completed on 2021-04-14 10:27:24
